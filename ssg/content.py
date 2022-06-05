@@ -1,5 +1,4 @@
 import re
-from typing_extensions import Self
 from yaml import load, FullLoader
 from collections.abc import Mapping
 
